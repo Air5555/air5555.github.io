@@ -1,0 +1,32 @@
+<html>
+<HEAD>
+    <TITLE> Задание 11. Основы JavaScript</TITLE>
+    <style>     
+        .blink {
+            animation: blink 3s infinite;
+        }
+        @keyframes blink {
+            from {
+                opacity: 1;
+            }
+            to {
+                opacity: 0;
+            }
+        }
+    </style>
+</HEAD>
+<body>
+    <p class="blink" style="color:red"> Пройдите краткий опрос. </p>
+    <FORM ACTION="" method="POST" onsubmit="return OprosForm(this)">
+        <b><label for="name">Введите имя:</label></b><INPUT TYPE="text" NAME="name" SIZE="20">
+        <p><b>Выберете, что Вам больше нравится: </b></p>
+        <input type="radio" name="CheckOpros" id="study" value="Учиться">
+        <label for="study">Учиться</label>
+        <input type="radio" name="CheckOpros" id="relax" value="Отдыхать">
+        <label for="relax">Отдыхать</label>
+        <div id="error" style="color: red"></div>
+        <p><input type="submit" name="opros"></p>
+    </FORM>
+    <script src="main.js"></script>
+</body>
+</html>
