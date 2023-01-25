@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-01-25T05:24:47.459Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 YaBrowser/23.1.0.2947 Yowser/2.5 Safari/537.36" etag="EPeOpawA88MwAyrLIcLC" version="20.8.11" type="github">
+<mxfile host="app.diagrams.net" modified="2023-01-25T05:25:22.148Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 YaBrowser/23.1.0.2947 Yowser/2.5 Safari/537.36" etag="0hch3EsriRThICfey2bw" version="20.8.11" type="github">
   <diagram name="Страница 1" id="c36WzSYWLpV6vIGdTMvF">
     <mxGraphModel dx="2213" dy="783" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -92,9 +92,6 @@
             <mxPoint x="610" y="520" as="sourcePoint" />
             <mxPoint x="680" y="520" as="targetPoint" />
           </mxGeometry>
-        </mxCell>
-        <mxCell id="v5O-tt8Nk6luOTBKUJJN-25" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="480" y="350" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="v5O-tt8Nk6luOTBKUJJN-26" value="Продажа билетов" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="680" y="490" width="180" height="50" as="geometry" />
